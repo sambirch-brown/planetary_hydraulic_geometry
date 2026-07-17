@@ -1,4 +1,4 @@
-# Code for Birch et al. (2023), PNAS
+# planetaryRiverPredictor
 
 MATLAB code for Birch et al. (2023), "Reconstructing river flows
 remotely on Earth, Titan, and Mars," PNAS 120 (25), **e2206837120**
