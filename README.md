@@ -1,7 +1,7 @@
-# birch2023-river-flows
+# Code for Birch et al. (2023), PNAS
 
-MATLAB code for **Birch et al. (2023), "Reconstructing river flows
-remotely on Earth, Titan, and Mars," PNAS 120 (25), e2206837120**
+MATLAB code for Birch et al. (2023), "Reconstructing river flows
+remotely on Earth, Titan, and Mars," PNAS 120 (25), **e2206837120**
 ([doi:10.1073/pnas.2206837120](https://doi.org/10.1073/pnas.2206837120)).
 
 Given only a channel's bankfull width and bed slope, plus the fluid and
